@@ -4,29 +4,29 @@
    },
    "banner": [
      {
-       "image": "https://dpvr8cthj0mc3.cloudfront.net/flutter_testing.png",
-       "header_text": "New Recipe",
+       "image": "https://media.istockphoto.com/id/1472620857/photo/tasty-butter-chicken-curry-dish-from-indian-cuisine.jpg?s=2048x2048&w=is&k=20&c=rxB0AVK-Z5sOHtJVwQqw9NFMF8DW8Addg_lnlveskPo=",
+       "header_text": "Chicken Recipe",
        "footer_text": "Cook Chicken Curry",
        "footer_icon": true
      },
      {
-       "image": "https://dpvr8cthj0mc3.cloudfront.net/flutter_testing.png",
-       "color": "blue",
-       "header_text": "Meal Planner",
-       "footer_text": "Plan your meals",
+       "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2034&q=80",
+       "color": "yellow",
+       "header_text": "Panner Recipe",
+       "footer_text": "Panner Masala",
        "footer_icon": false
      },
      {
-       "image": "https://dpvr8cthj0mc3.cloudfront.net/flutter_testing.png",
-       "header_text": "New Recipe",
-       "footer_text": "Cook Chicken Curry",
+       "image": "https://media.istockphoto.com/id/1200812166/photo/vegetarian-masala-mix-veg-with-indian-cottage-cheese.jpg?s=2048x2048&w=is&k=20&c=LP6NERHFwoVqA2Tlu5CVqnDEeynHY0rujc5QQQmxk-o=",
+       "header_text": "Veg Recipe",
+       "footer_text": "Mix veg",
        "footer_icon": true
      },
      {
-       "image": "https://dpvr8cthj0mc3.cloudfront.net/flutter_testing.png",
-       "color": "blue",
-       "header_text": "Meal Planner",
-       "footer_text": "Plan your meals",
+       "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+       "color": "green",
+       "header_text": "Diet Recipe",
+       "footer_text": "Salad",
        "footer_icon": false
      }
    ],
@@ -36,34 +36,34 @@
          {
            "type": "circular_item",
            "text": "Breakfast",
-           "image": "https://path/to/image.png"
+           "image": "https://picsum.photos/200"
          },
          {
            "type": "circular_item",
            "text": "Meat Based",
-           "image": "https://path/to/image.png"
+           "image": "https://picsum.photos/200"
          },
          {
            "type": "circular_item",
            "text": "Vegan",
-           "image": "https://path/to/image.png"
+           "image": "https://picsum.photos/200"
          }
        ],
        "Cuisines": [
          {
            "type": "box_item",
            "text": "American",
-           "image": "https://path/to/image.png"
+           "image": "https://picsum.photos/id/237/200/300"
          },
          {
            "type": "box_item",
            "text": "Italian",
-           "image": "https://path/to/image.png"
+           "image": "https://picsum.photos/id/237/200/300"
          },
          {
            "type": "box_item",
            "text": "Thai",
-           "image": "https://path/to/image.png"
+           "image": "https://picsum.photos/id/237/200/300"
          }
        ]
      }
